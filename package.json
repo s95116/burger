@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger selection app. The user is able to enter the type of burger they'd like to eat and the devour the burger via a button click.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s95116/burger.git"
+  },
+  "author": "Seth Keel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s95116/burger/issues"
+  },
+  "homepage": "https://github.com/s95116/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "mysql": "^2.11.1"
+  }
+}
